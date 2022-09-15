@@ -1,0 +1,21 @@
+
+body
+{
+    background-image: url(../ATVORIENTAJS/img/carro.jpg);
+}
+h1
+{
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(7, 235, 2);
+     color: chartreuse;
+}
+
+h2
+{
+    border-bottom-style: solid;
+    border-bottom-color: rgb(0, 255, 255);
+    text-align: center;
+    height: 20%;
+    color: rgb(255, 255, 255);
+}
